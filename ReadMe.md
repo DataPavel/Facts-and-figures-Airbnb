@@ -1,6 +1,6 @@
 # Facts and Figures about Airbnb prices
 
-## A link to medium positive
+## A link to medium post
 [Airbnb prices](https://medium.com/@averinjr/facts-and-figures-about-airbnb-prices-from-coast-to-coast-83e802a09883)
 
 ## Project Description
